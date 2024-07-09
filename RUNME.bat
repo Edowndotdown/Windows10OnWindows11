@@ -1,0 +1,2 @@
+start WoW.bat
+exit
