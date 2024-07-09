@@ -18,20 +18,20 @@ WoW replaces the Windows 11 UI for the Taskbar, Start menu, Context menu, Folder
         4. Go to next section in installation guide "Setup Process"
 
 
-    Releases > ISO Installation
+    Releases > EXE Installation
 
-        1. Download ISO from releases
+        1. Download EXE from releases
 
-        2. Mount ISO. If not prompted, right click and run Autorun.inf (Might need to show hidden files in explorer)
+        2. Run EXE. WARNING May be detected as malware. See Warnings for help. Alternativly, turn off virus protection for installation.
 
-        3. Go to next section in installation guide "Setup Process"
+        3. Go to next section in installation guide "Setup Process" after following prompts until acess to admin privliges is presented.
 
-        4. After installation is complete, you may eject the ISO
+        4. After installation is complete, you may delete exe
 
 
     Setup Process
 
-        1. If not already, run the Program (Autorun.inf for ISO) (RUNME.bat or WoW.bat for Source Code)
+        1. If not already, run the Program (WoW.exe for EXE install) (RUNME.bat or WoW.bat for Source Code)
 
         2. Give Admin Access When Prompted
 
