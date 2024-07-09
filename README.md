@@ -67,8 +67,8 @@ WoW replaces the Windows 11 UI for the Taskbar, Start menu, Context menu, Folder
 # Warnings
     
     Basic Warnings
-        
-        Uninstallation is very difficult. Plan for this ahead of time
+
+        Virus Scanners may detect WoW as a virus. To disable, go to Windows Security, Windows Security, Protection History, Click threat blocked, then allow on device. Sorry for the inconvienence.
 
         Any damage done to your device is not our problem
 
