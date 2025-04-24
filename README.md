@@ -1,6 +1,7 @@
 # Windows10OnWindows11
  Welcome to WoW! WoW is a transformation pack for Windows 11 using registry tweaks, and third party Patchers to clone the Windows 10 UI. For questions, issues, or suggestions, feel free to let me know!
 
+# For x64 machines ONLY!!! ARM64 devices WILL be bricked.
 
 # Features
 WoW replaces the Windows 11 UI for the Taskbar, Start menu, Context menu, Folder spacing, and application corners with the UI from Windows 10.
